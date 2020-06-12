@@ -1,1 +1,4 @@
-This is the game Devils Dice.  The goal is to get to 100.  You roll two dice and add the numbers.  You keep rolling until either you get a 7 or you 'take'.  If you 'take', the total is added to your score and its your opponets turn.  If you roll a seven, you lose your total, your score stays the same, and it becomes your opponets turn.
+This is the game Devils Dice.  The goal is to get to 100 points.
+You roll two dice and add the numbers to the total.  You keep rolling until either you get a 7 or you 'take'.
+If you 'take', the total is added to your score and its your opponets turn.
+If you roll a seven, you lose your total, your score stays the same, and it becomes your opponets turn.
